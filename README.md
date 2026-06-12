@@ -192,6 +192,6 @@ The project reflects skills commonly required in Data Science and Statistical Le
 
 **Shruti Beladia**
 
-Aspiring Data Scientist | Software Engineer | Data Analytics Enthusiast
+Data Scientist | Software Engineer | Data Analytics 
 
 GitHub: https://github.com/Shrutibeladia
